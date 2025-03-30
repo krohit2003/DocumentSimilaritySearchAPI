@@ -26,8 +26,8 @@ This project is a **document similarity search API** that allows users to **uplo
 
 ---
 
-## ** Successfully Completed Bonus Task**
-### ** Additional Features Implemented**
+## Successfully Completed Bonus Task
+### Additional Features Implemented
 
  Implemented **Cosine Similarity**, **Dot Product Similarity**, and **Euclidean Distance** for more accurate search results.  
 The code allows users to choose the similarity metric dynamically.  
@@ -131,8 +131,8 @@ GET /api/search?query="budget deficit" &top_k=5
 
 ---
 
-## ** Tech Stack**
-### **Backend**
+##  Tech Stack
+### Backend
 - **FastAPI** - High-performance Python web framework for building APIs  
 - **FAISS** - Efficient similarity search library for fast document retrieval  
 - **Hugging Face Transformers** - Used `all-MiniLM-L6-v2` for text embeddings  
@@ -140,7 +140,7 @@ GET /api/search?query="budget deficit" &top_k=5
 - **FAISS (Facebook AI Similarity Search)** - Stores and retrieves document embeddings efficiently  
 - **Uvicorn** - ASGI server for serving the FastAPI application  
 
-### **Frontend**
+### Frontend
 - **React.js** - Frontend framework for building the user interface  
 - **Vite** - Lightweight development server for React  
 - **Tailwind CSS** - Utility-first CSS framework for styling  
