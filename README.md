@@ -1,10 +1,10 @@
 # Document Similarity Search API
 
-## ** Brief Explanation of My Approach**  
+##  Brief Explanation of My Approach
 
 This project is a **document similarity search API** that allows users to **upload PDF documents** and perform **semantic searches** to find the most relevant text chunks.  
 
-### ** How It Works:**  
+###  How It Works:
 
 1️ **Extract Text from PDFs**   
    - The user uploads a **PDF document** through the frontend.  
