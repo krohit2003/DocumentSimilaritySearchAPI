@@ -43,8 +43,9 @@ Each time a new document is uploaded, it is indexed in real time, ensuring the l
 
 ### **1. Clone the Repository**  
 ```sh
-git clone https://github.com/your-repo/pdf-search-api.git
-cd pdf-search-api
+git clone https://github.com/krohit2003/DocumentSimilaritySearchAPI.git
+cd DocumentSimilaritySearchAPI
+
 ```
 
 ### **2. Set Up a Virtual Environment**
